@@ -12,7 +12,7 @@
 	<artifactId>webguesser</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Web Guesser</name>
-	<description>Web guesser as a test task to Sapiens</description>
+	<description>Web Guesser</description>
 	<properties>
 		<java.version>16</java.version>
 	</properties>
