@@ -6,7 +6,7 @@ Web based implementation of a game Bulls and Cows.
 Technologies used:
 Backend | Frontend
 --------|---------
-Java | React JS
-Spring Boot | 
+Java | JavaScript
+Spring Boot | React JS
 JPA |
 Junit |
